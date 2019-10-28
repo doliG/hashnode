@@ -2,9 +2,9 @@
 
 ## Summary
 
-- [What is it?](#what-is-it)
-- [How it works?](#how-it-works)
-- [How to use?](#how-to-use)
+- [What is it?](#what-is-it-)
+- [How it works?](#how-it-works-)
+- [How to use?](#how-to-use-)
   * [App side: Creating and dispatching event](#app-side-creating-and-dispatching-event)
   * [Analytics side: Catching and processing events](#analytics-side-catching-and-processing-events)
 - [Under the hood](#under-the-hood)
@@ -112,6 +112,4 @@ class TrackingEvent {
 
 Want to know more ? Feel free to follow the project or read the source code on [GitHub](https://github.com/doliG/poc_events) .
 
----
-
-Cover photo by  [Kyle Hinkson](https://unsplash.com/@kajhinkson)  on  [Unsplash](https://unsplash.com/s/photos/baloon) .
+Cover photo by Kyle Hinkson on Unsplash.

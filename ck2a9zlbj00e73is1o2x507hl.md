@@ -13,7 +13,7 @@
 
 The problem: When you have multiple application, such as in micro front-end, you need to find a way to communicate between them.
 
-This is an **event based** proof of concept (POC),of how three application and an analitycs layer can communicate.
+This is an **event based** proof of concept (POC), of how three application and an analytics layer can communicate.
 
 This had been inspired by [MicroFrontend](https://micro-frontends.org/) and [Eev](https://github.com/chrisdavies/eev)
 

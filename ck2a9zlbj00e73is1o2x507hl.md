@@ -64,9 +64,9 @@ document.addEventListener('trackingEvent', function (event) {
   /**
    * Process the event here.
    * Please note that event is the CustomEvent object.
-   * Your data are stored into event.details
+   * Your data are stored into event.detail
    */
-  const { type, payload } = event.details;
+  const { type, payload } = event.detail;
   
   axios
     .post('analytics-api' { type, payload })

@@ -112,4 +112,6 @@ class TrackingEvent {
 
 Want to know more ? Feel free to follow the project or read the source code on [GitHub](https://github.com/doliG/poc_events) .
 
-Cover photo by Kyle Hinkson on Unsplash.
+---
+
+Cover photo by  [Kyle Hinkson](https://unsplash.com/@kajhinkson)  on  [Unsplash](https://unsplash.com/s/photos/baloon) .

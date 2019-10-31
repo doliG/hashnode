@@ -77,7 +77,7 @@ document.addEventListener('trackingEvent', function (event) {
 
 ## Under the hood
 
-The `TrackingEvent` object is just some syntaxic sugar added on top of [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events#Adding_custom_data_%E2%80%93_CustomEvent()) api.
+The `TrackingEvent` object is just some syntaxic sugar added on top of [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events#Adding_custom_data_%E2%80%93_CustomEvent) api.
 
 Its main purpose is to simplify the developer by abstracting the not so complicated CustomEvent api and reducing boilerplate.
 

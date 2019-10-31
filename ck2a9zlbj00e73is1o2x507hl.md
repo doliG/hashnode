@@ -46,7 +46,7 @@ When you want to track an event, you have to:
 Example:
 
 ```js
-const type = trackingEventName;
+const type = 'trackingEventName';
 const payload = { your: 'datas', goes: 'here' };
 
 const e = new TrackingEvent(type, payload);
